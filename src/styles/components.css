@@ -1,0 +1,11 @@
+.carousel-move {
+    transition: transform 0.4s ease-in-out;
+}
+
+.carousel-translate-left {
+    transform: translateX(0%);
+}
+
+.carousel-translate-right {
+    transform: translateX(-50%);
+}
